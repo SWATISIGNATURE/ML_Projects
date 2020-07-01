@@ -29,11 +29,11 @@ Purchase => Purchase Amount (Target Variable)\
 Python
 
 ## Libaries
-Numpy
-Pandas
-Matplot
-Seaborn
-sklearn
+Numpy\
+Pandas\
+Matplot\
+Seaborn\
+sklearn\
 
 ## Prerequisites
 Domain knowledge on Retails
