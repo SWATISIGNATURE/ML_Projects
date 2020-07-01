@@ -35,5 +35,15 @@ Matplot\
 Seaborn\
 sklearn
 
+## Methods Used
+Descriptive Statistics\
+Inferential Statistics\
+Exploratory Data Analysis\
+Predictive Analysis\
+Machine Learning\
+Regression\
+Data Visualization\
+Predictive Modeling\
+etc.
 ## Prerequisites
 Domain knowledge on Retails
