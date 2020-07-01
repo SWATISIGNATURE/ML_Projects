@@ -33,7 +33,7 @@ Numpy\
 Pandas\
 Matplot\
 Seaborn\
-sklearn\
+sklearn
 
 ## Prerequisites
 Domain knowledge on Retails
