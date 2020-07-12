@@ -1,29 +1,26 @@
-![image](black_friday.JPG)
+![image](medical_insurance.jpg)
 
 # Project Title
 
-Black Friday Sales Prediction
+Health Insurance Cost Estimation
 
 ## Problem Statement
 
-A retail company “ABC Private Limited” wants to understand the customer purchase behaviour (specifically, purchase amount) against various products of different categories. They have shared purchase summary of various customers for selected high volume products from last month.
-The data set also contains customer demographics (age, gender, marital status, city_type, stay_in_current_city), product details (product_id and product category) and Total purchase_amount from last month.
+A Health Insuarnce company “ABC Insurance Limited” wants to understand the pattern to estimate the correct health insurance amount for population using the past months dataset.
+The data set also contains customer demographics (age, gender,bmi,smoking pattern,kids,region etc) that can be an important factor in predicting the estimation.
 
-Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
+Now, they want to build a model to predict the  amount a customer should be charged against various factors given.
 
 ## Data Definition
-User_ID => User ID\
-Product_ID  => Product ID\
-Gender => Sex of User\
-Age  => Age in bins\
-Occupation => Occupation (Masked)\
-City_Category	 => Category of the City (A,B,C)\
-Stay_In_Current_City_Years => Number of years stay in current city\
-Marital_Status => Marital Status\
-Product_Category_1 => Product Category (Masked)\
-Product_Category_2 => Product may belongs to other category also (Masked)\
-Product_Category_3 => Product may belongs to other category also (Masked)\
-Purchase => Purchase Amount (Target Variable)\
+Columns
+age: age of primary beneficiary
+sex: insurance contractor gender, female, male
+bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,
+objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
+children: Number of children covered by health insurance / Number of dependents
+smoker: Smoking
+region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
+charges: Individual medical costs billed by health insurance
 
 ## Language
 Python
@@ -46,5 +43,5 @@ Data Visualization\
 Predictive Modeling\
 etc.
 ## Prerequisites
-Domain knowledge on Retails
+Domain knowledge on Health Insurance
 
