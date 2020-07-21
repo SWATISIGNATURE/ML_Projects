@@ -1,5 +1,5 @@
 
-![image](credit_card_fraud.JPG)
+![image](credit_card_fraud.PNG)
 
 # Project Title
 
