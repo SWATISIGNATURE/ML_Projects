@@ -1,4 +1,4 @@
-![image](credit_card_fraud.PNG)
+![image](ML_in_Agriculture.PNG)
 
 # Project Title
 
